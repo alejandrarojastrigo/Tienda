@@ -1,5 +1,5 @@
 package categoria.control;
-
+// linea añadida
 import categoria.entity.Categoria;
 import categoria.entity.NoExisteCategoria;
 import java.util.ArrayList;
