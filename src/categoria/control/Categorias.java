@@ -4,6 +4,7 @@ import categoria.entity.Categoria;
 import categoria.entity.NoExisteCategoria;
 import java.util.ArrayList;
 import java.util.Iterator;
+// modificacion
 
 public class Categorias {
 	
